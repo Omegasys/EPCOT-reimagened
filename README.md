@@ -1,164 +1,218 @@
-# EPCOT-reimagened
+Project Tomorrow
 
-# Project EPCOT Reimagined
+An Open-Source Community of Tomorrow
 
-## Overview
+Overview
 
-This repository is a symbolic and modern interpretation of the original EPCOT vision imagined by Walt Disney near the end of his life.
+Project Tomorrow is an open-source collaborative initiative inspired by the original vision of the Experimental Prototype Community of Tomorrow (EPCOT) proposed by Walt Disney during the final years of his life.
 
-The original Experimental Prototype Community of Tomorrow (EPCOT) was envisioned as a living, evolving community where new ideas, technologies, infrastructure, transportation systems, architecture, and methods of human collaboration could be designed, tested, refined, and demonstrated. It was intended to be more than a theme park—it was meant to be a real-world innovation laboratory focused on building a better future.
+The original EPCOT concept was envisioned as a living laboratory where new technologies, infrastructure, transportation systems, architectural ideas, and methods of community organization could be continuously developed, tested, improved, and demonstrated.
 
-This repository is not affiliated with The Walt Disney Company, Disney Enterprises, or any related organizations. Instead, it serves as an open-source thought experiment and collaborative design space inspired by the spirit of continuous innovation that characterized the original EPCOT concept.
+This repository seeks to create a modern, digital equivalent of that vision.
 
-## Mission
+Rather than constructing a physical city, Project Tomorrow serves as an open platform where people from around the world can collaborate on designs, proposals, prototypes, research, software, documentation, and concepts that may contribute to a better future.
 
-The mission of this project is to create an open, community-driven environment where people can collaboratively design concepts for:
+This project is not affiliated with, endorsed by, sponsored by, or connected to The Walt Disney Company. It is an independent community effort inspired by the spirit of innovation embodied by the original EPCOT concept.
 
-- Future cities
-- Sustainable infrastructure
-- Public transportation systems
-- Communications networks
-- Energy systems
-- Digital governance models
-- Education systems
-- Healthcare concepts
-- Privacy-preserving technologies
-- Open-source software
-- Community planning
-- Emergency preparedness
-- Manufacturing and automation
-- Robotics
-- Artificial intelligence
-- Cybersecurity
-- Environmental stewardship
-- Human-centered design
+⸻
 
-The goal is not merely to discuss these topics, but to document, model, prototype, and refine practical ideas that could improve communities and quality of life.
+Mission
 
-## Why Open Source?
+Our mission is to create a collaborative environment where individuals can openly design, discuss, prototype, and document ideas related to:
 
-The original EPCOT was intended to be a place where ideas were continuously improved rather than permanently finished.
+* Future cities
+* Urban planning
+* Public transportation
+* Communications systems
+* Open-source software
+* Cybersecurity
+* Sustainable energy
+* Environmental stewardship
+* Education
+* Healthcare
+* Emergency preparedness
+* Robotics
+* Artificial intelligence
+* Manufacturing
+* Architecture
+* Digital governance
+* Privacy-preserving technologies
+* Community development
+* Scientific research
 
-Open-source development embraces a similar philosophy:
+The goal is to create a continuously evolving body of knowledge that anyone can study, improve, and build upon.
 
-- Continuous improvement
-- Transparency
-- Peer review
-- Collaboration
-- Documentation
-- Iterative design
-- Community ownership of knowledge
+⸻
 
-By hosting this effort on GitHub, contributors from around the world can participate regardless of location, profession, or background.
+Why Open Source?
 
-## Call for Contributors
+The original EPCOT concept embraced continuous improvement.
 
-We are actively seeking contributors from a wide range of disciplines, including but not limited to:
+Open-source communities operate on many of the same principles:
 
-### Technology
+* Transparency
+* Collaboration
+* Peer review
+* Documentation
+* Shared knowledge
+* Continuous iteration
+* Community participation
 
-- Linux users
-- Open-source developers
-- Software engineers
-- Systems administrators
-- Network engineers
-- Cybersecurity researchers
-- Hardware designers
-- Embedded systems developers
-- Robotics enthusiasts
-- AI and machine learning researchers
+By leveraging GitHub and open licensing, Project Tomorrow allows contributors from all backgrounds to help shape ideas that may benefit future generations.
 
-### Engineering
+⸻
 
-- Civil engineers
-- Mechanical engineers
-- Electrical engineers
-- Transportation planners
-- Environmental engineers
-- Urban infrastructure specialists
+Call for Contributors
 
-### Community and Society
+We welcome contributors from every discipline.
 
-- Educators
-- Historians
-- Economists
-- Policy researchers
-- Urban planners
-- Architects
-- Emergency management professionals
-- Sustainability advocates
-- Community organizers
+Technology
 
-### Creative Fields
+* Linux users
+* Open-source developers
+* Software engineers
+* Network engineers
+* Cybersecurity researchers
+* System administrators
+* Hardware designers
+* Embedded systems developers
+* Robotics enthusiasts
+* AI researchers
 
-- Artists
-- Graphic designers
-- Industrial designers
-- Writers
-- Technical documentarians
-- User experience designers
+Engineering
 
-If you are passionate about building a better future, your perspective is welcome.
+* Civil engineers
+* Electrical engineers
+* Mechanical engineers
+* Transportation planners
+* Environmental engineers
+* Infrastructure specialists
 
-## Guiding Principles
+Community and Society
+
+* Educators
+* Historians
+* Economists
+* Urban planners
+* Policy researchers
+* Emergency management professionals
+* Sustainability advocates
+* Community organizers
+
+Creative Disciplines
+
+* Artists
+* Architects
+* Industrial designers
+* Graphic designers
+* Writers
+* Technical documentarians
+* User experience designers
+
+Whether your contribution is a complete prototype or a simple idea, your perspective is welcome.
+
+⸻
+
+Guiding Principles
 
 1. Open Knowledge
-   - Ideas should be documented and shared whenever possible.
+
+Knowledge should be documented, preserved, and shared whenever possible.
 
 2. Respectful Collaboration
-   - Contributors should engage constructively and professionally.
+
+Discussions should remain constructive, professional, and solution-focused.
 
 3. Practical Innovation
-   - Concepts should strive for real-world applicability.
+
+Ideas should strive for real-world applicability and measurable benefit.
 
 4. Long-Term Thinking
-   - Designs should consider future generations.
+
+Projects should consider impacts on future generations.
 
 5. Human-Centered Design
-   - Technology should serve people, not the other way around.
+
+Technology should serve people and communities.
 
 6. Privacy and Freedom
-   - Individual rights, privacy, and personal autonomy should be respected.
+
+Individual liberty, privacy, and digital rights should be respected.
 
 7. Sustainability
-   - Environmental impacts should be considered in all major proposals.
 
-## Repository Structure
+Environmental and resource impacts should be considered in all major proposals.
 
-Potential project areas may include:
+⸻
+
+Repository Structure
+
+Example project areas may include:
 
 /city-design
 /transportation
-/energy
 /communications
+/energy
 /software
 /cybersecurity
+/robotics
+/architecture
 /education
 /healthcare
 /governance
-/architecture
-/robotics
 /research
 /documentation
 
-These categories are expected to evolve as contributors join and propose new directions.
+These categories are expected to evolve as the project grows.
 
-## How to Contribute
+⸻
+
+Licensing
+
+Project Tomorrow uses multiple licenses depending on the type of content.
+
+Software
+
+Unless otherwise specified, source code contained within this repository is licensed under the GNU General Public License Version 3 (GPL-3.0).
+
+Documentation
+
+Documentation, research papers, proposals, planning documents, and written content are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Artwork and Media
+
+Artwork, diagrams, illustrations, renders, and other creative works are licensed under CC BY-SA 4.0 unless otherwise noted.
+
+See the LICENSES directory for full license texts and details.
+
+⸻
+
+Contributor Agreement
+
+By submitting a contribution to this repository, you agree that your contribution may be distributed under the licensing terms applicable to the portion of the project to which you contribute.
+
+Contributors retain copyright ownership of their original work while allowing Project Tomorrow to distribute and maintain those contributions under the project’s licensing model.
+
+⸻
+
+How to Contribute
 
 1. Fork the repository.
-2. Create a feature branch.
-3. Document your proposal clearly.
+2. Create a branch.
+3. Develop your proposal, design, documentation, or software.
 4. Submit a pull request.
-5. Participate in constructive discussion and review.
+5. Participate in review and discussion.
 
-No idea is too small. Revolutionary concepts often begin as simple sketches, notes, diagrams, or conversations.
+Every meaningful contribution matters.
 
-## Vision Statement
+⸻
 
-This repository seeks to become a digital workshop for imagining and designing possible futures.
+Vision Statement
 
-Just as the original EPCOT was envisioned as a place where innovation never stopped, this repository aims to be a living collection of ideas, designs, experiments, and collaborations dedicated to improving the human experience.
+Project Tomorrow is intended to become a digital workshop for imagining and designing possible futures.
 
-The future is not something we wait for.
+Just as the original EPCOT sought to demonstrate what tomorrow could look like, this repository seeks to create a collaborative environment where ideas can be explored, refined, documented, and shared openly with the world.
 
-It is something we build together.
+The future is not something we inherit.
+
+It is something we design together.
