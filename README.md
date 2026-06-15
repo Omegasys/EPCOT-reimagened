@@ -1,197 +1,225 @@
-Project Tomorrow
+Horizon Commons
 
-An Open-Source Community of Tomorrow
-
-Overview
-
-Project Tomorrow is an open-source collaborative initiative inspired by the original vision of the Experimental Prototype Community of Tomorrow (EPCOT) proposed by Walt Disney during the final years of his life.
-
-The original EPCOT concept was envisioned as a living laboratory where new technologies, infrastructure, transportation systems, architectural ideas, and methods of community organization could be continuously developed, tested, improved, and demonstrated.
-
-This repository seeks to create a modern, digital equivalent of that vision.
-
-Rather than constructing a physical city, Project Tomorrow serves as an open platform where people from around the world can collaborate on designs, proposals, prototypes, research, software, documentation, and concepts that may contribute to a better future.
-
-This project is not affiliated with, endorsed by, sponsored by, or connected to The Walt Disney Company. It is an independent community effort inspired by the spirit of innovation embodied by the original EPCOT concept.
+Building Tomorrow Together
 
 ⸻
 
-Mission
+Overview
 
-Our mission is to create a collaborative environment where individuals can openly design, discuss, prototype, and document ideas related to:
+Horizon Commons is an open-source collaborative initiative dedicated to exploring, designing, documenting, and prototyping ideas that may contribute to a better future.
 
-* Future cities
+Inspired by the spirit of the Experimental Prototype Community of Tomorrow (EPCOT) originally envisioned by Walt Disney, Horizon Commons seeks to create a modern digital commons where innovators, researchers, engineers, designers, makers, and community members can collaborate openly on the challenges and opportunities of tomorrow.
+
+Rather than building a single city, Horizon Commons aims to become a shared workshop of ideas—a place where communities, technologies, infrastructure, and systems can be imagined, discussed, improved, and documented in the open.
+
+This project is not affiliated with, endorsed by, sponsored by, or connected to The Walt Disney Company. Horizon Commons is an independent community initiative inspired by the broader vision of continuous innovation and community improvement.
+
+⸻
+
+Our Mission
+
+To create an open, collaborative environment where people from diverse backgrounds can work together to design and share ideas that improve the human experience.
+
+We believe that the future should not be designed behind closed doors.
+
+It should be built in the open.
+
+⸻
+
+Areas of Exploration
+
+Horizon Commons welcomes contributions related to:
+
+Communities & Cities
+
 * Urban planning
-* Public transportation
-* Communications systems
-* Open-source software
-* Cybersecurity
-* Sustainable energy
-* Environmental stewardship
-* Education
-* Healthcare
-* Emergency preparedness
-* Robotics
-* Artificial intelligence
-* Manufacturing
-* Architecture
-* Digital governance
-* Privacy-preserving technologies
-* Community development
-* Scientific research
+* Rural development
+* Public spaces
+* Housing concepts
+* Smart communities
+* Community resilience
 
-The goal is to create a continuously evolving body of knowledge that anyone can study, improve, and build upon.
+Transportation
+
+* Public transit
+* Rail systems
+* Active transportation
+* Sustainable mobility
+* Autonomous transportation concepts
+
+Energy & Sustainability
+
+* Renewable energy
+* Energy storage
+* Water systems
+* Environmental restoration
+* Sustainable infrastructure
+* Circular economies
+
+Technology
+
+* Linux and open-source software
+* Privacy-preserving systems
+* Cybersecurity
+* Networking and communications
+* Artificial intelligence
+* Robotics
+* Embedded systems
+* Digital infrastructure
+
+Education & Knowledge
+
+* Open educational resources
+* Libraries
+* Community learning
+* Research initiatives
+* Scientific literacy
+
+Governance & Society
+
+* Civic participation
+* Community governance models
+* Emergency preparedness
+* Public policy concepts
+* Ethical technology development
+
+Design & Creativity
+
+* Architecture
+* Industrial design
+* Graphic design
+* User experience
+* Art and storytelling
 
 ⸻
 
 Why Open Source?
 
-The original EPCOT concept embraced continuous improvement.
+Many of humanity’s greatest achievements have been built through collaboration.
 
-Open-source communities operate on many of the same principles:
+Open-source communities demonstrate that people across the world can work together to create software, knowledge, and solutions that benefit everyone.
+
+Horizon Commons applies those same principles to broader questions about the future.
+
+We believe in:
 
 * Transparency
 * Collaboration
-* Peer review
 * Documentation
+* Peer review
 * Shared knowledge
-* Continuous iteration
+* Continuous improvement
 * Community participation
-
-By leveraging GitHub and open licensing, Project Tomorrow allows contributors from all backgrounds to help shape ideas that may benefit future generations.
 
 ⸻
 
-Call for Contributors
+Who Can Contribute?
 
-We welcome contributors from every discipline.
+Everyone.
 
-Technology
+We welcome:
 
 * Linux users
-* Open-source developers
-* Software engineers
-* Network engineers
-* Cybersecurity researchers
-* System administrators
-* Hardware designers
-* Embedded systems developers
-* Robotics enthusiasts
-* AI researchers
-
-Engineering
-
-* Civil engineers
-* Electrical engineers
-* Mechanical engineers
-* Transportation planners
-* Environmental engineers
-* Infrastructure specialists
-
-Community and Society
-
-* Educators
-* Historians
-* Economists
-* Urban planners
-* Policy researchers
-* Emergency management professionals
-* Sustainability advocates
-* Community organizers
-
-Creative Disciplines
-
-* Artists
+* Open-source contributors
+* Software developers
+* Engineers
+* Scientists
 * Architects
-* Industrial designers
-* Graphic designers
-* Writers
-* Technical documentarians
-* User experience designers
+* Educators
+* Students
+* Artists
+* Urban planners
+* Researchers
+* Community organizers
+* Makers and hobbyists
+* Curious individuals
 
-Whether your contribution is a complete prototype or a simple idea, your perspective is welcome.
+You do not need professional credentials to contribute valuable ideas.
+
+Thoughtful participation is more important than titles.
 
 ⸻
 
 Guiding Principles
 
-1. Open Knowledge
+Open Knowledge
 
-Knowledge should be documented, preserved, and shared whenever possible.
+Knowledge should be documented and shared whenever possible.
 
-2. Respectful Collaboration
+Human-Centered Design
 
-Discussions should remain constructive, professional, and solution-focused.
+Technology exists to serve people and communities.
 
-3. Practical Innovation
+Privacy and Freedom
 
-Ideas should strive for real-world applicability and measurable benefit.
+Individual liberty, privacy, and digital rights matter.
 
-4. Long-Term Thinking
+Sustainability
 
-Projects should consider impacts on future generations.
+Long-term environmental stewardship should guide decision making.
 
-5. Human-Centered Design
+Constructive Collaboration
 
-Technology should serve people and communities.
+Disagreements should lead to better ideas, not division.
 
-6. Privacy and Freedom
+Practical Innovation
 
-Individual liberty, privacy, and digital rights should be respected.
+Concepts should strive toward real-world usefulness and measurable benefit.
 
-7. Sustainability
+Long-Term Thinking
 
-Environmental and resource impacts should be considered in all major proposals.
+The future belongs to generations we may never meet. We should design accordingly.
 
 ⸻
 
 Repository Structure
 
-Example project areas may include:
+Example project areas:
 
-/city-design
-/transportation
-/communications
-/energy
-/software
-/cybersecurity
-/robotics
 /architecture
+/city-design
+/communications
+/cybersecurity
+/docs
 /education
-/healthcare
+/energy
 /governance
+/healthcare
+/infrastructure
 /research
-/documentation
+/robotics
+/software
+/transportation
 
-These categories are expected to evolve as the project grows.
+The structure will evolve alongside the community.
 
 ⸻
 
 Licensing
 
-Project Tomorrow uses multiple licenses depending on the type of content.
+Horizon Commons uses a multi-license approach to support both software development and knowledge sharing.
 
 Software
 
-Unless otherwise specified, source code contained within this repository is licensed under the GNU General Public License Version 3 (GPL-3.0).
+Source code is licensed under the GNU General Public License Version 3 (GPL-3.0) unless otherwise specified.
 
-Documentation
+Documentation and Research
 
-Documentation, research papers, proposals, planning documents, and written content are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+Documentation, proposals, research papers, planning documents, and written materials are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 Artwork and Media
 
-Artwork, diagrams, illustrations, renders, and other creative works are licensed under CC BY-SA 4.0 unless otherwise noted.
+Artwork, diagrams, renders, illustrations, and other creative works are licensed under CC BY-SA 4.0 unless otherwise noted.
 
-See the LICENSES directory for full license texts and details.
+See the LICENSES directory for complete licensing information.
 
 ⸻
 
 Contributor Agreement
 
-By submitting a contribution to this repository, you agree that your contribution may be distributed under the licensing terms applicable to the portion of the project to which you contribute.
+By contributing to Horizon Commons, you agree that your contribution may be distributed under the applicable project licenses.
 
-Contributors retain copyright ownership of their original work while allowing Project Tomorrow to distribute and maintain those contributions under the project’s licensing model.
+Contributors retain ownership of their original work while allowing the community to use, modify, and distribute contributions according to the project’s licensing model.
 
 ⸻
 
@@ -199,20 +227,30 @@ How to Contribute
 
 1. Fork the repository.
 2. Create a branch.
-3. Develop your proposal, design, documentation, or software.
+3. Develop your idea, proposal, research, documentation, or software.
 4. Submit a pull request.
-5. Participate in review and discussion.
+5. Participate in discussion and review.
 
-Every meaningful contribution matters.
+Every meaningful contribution helps move the project forward.
 
 ⸻
 
-Vision Statement
+Long-Term Vision
 
-Project Tomorrow is intended to become a digital workshop for imagining and designing possible futures.
+Horizon Commons aspires to become a living repository of ideas for a better future.
 
-Just as the original EPCOT sought to demonstrate what tomorrow could look like, this repository seeks to create a collaborative environment where ideas can be explored, refined, documented, and shared openly with the world.
+Some proposals may remain thought experiments.
 
-The future is not something we inherit.
+Others may become prototypes.
 
-It is something we design together.
+A few may one day become real-world projects.
+
+The purpose of Horizon Commons is not to predict the future.
+
+The purpose is to create a place where people can work together to build it.
+
+⸻
+
+Motto
+
+“Beyond the horizon, together.”
